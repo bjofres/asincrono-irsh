@@ -80,5 +80,5 @@ http://localhost:8080/status/?jobId=b3f47a27-5b2e-4d7a-b42f-df9b6cb9f07f
 - **Logs**: Agregar un sistema de logs para registrar ejecuciones y posibles errores.
 
 ---
-**Autor:** [Tu Nombre]  
-**Fecha:** [Fecha de última modificación]
+**Autor:** Bastián Jofré  
+**Fecha:** Septiembre 2024
